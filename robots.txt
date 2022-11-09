@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: index.html
+Sitemap:https://github.com/ZXCVladislav/zxcVladislav.github.io/sitemap
+Clean-param: ref /some_dir/get_book.pl
